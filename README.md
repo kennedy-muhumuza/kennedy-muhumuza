@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kennedy-muhumuza
-- 👀 I’m interested in full stack web development
+- 👀 I’m interested in frontend web development
 - 🌱 I’m currently learning node js
 - 💞️ I’m looking to collaborate on full stack web projects
 - 📫 How to reach me +256780138103 (Whatsap)
